@@ -1,4 +1,4 @@
-[![Version](https://img.shields.io/badge/Rimworld-A18-blue.svg)](http://rimworldgame.com/)
+[![Version](https://img.shields.io/badge/Rimworld-A18-blue.svg?style=for-the-badge)](http://rimworldgame.com/)
 # NoFleeingAllowed
 
 <p align="center"><img src="https://raw.githubusercontent.com/kaptain-kavern/NoFleeingAllowed/master/About/Preview.png" alt="Preview"/></p>
